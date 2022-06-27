@@ -1,1 +1,5 @@
-This is my resume NPM module created for General Assembly SEIR-59.
+## Devin Raleigh NPM Resume
+
+NPM package to print my resume in the console.
+
+Type `npm i -g devinraleigh-resume` to install and `showResume` to run.
