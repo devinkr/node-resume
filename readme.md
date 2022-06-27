@@ -1,0 +1,1 @@
+This is my resume NPM module created for General Assembly SEIR-59.

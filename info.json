@@ -1,0 +1,24 @@
+{
+    "name": "Devin Raleigh",
+    "website": "https://devinraleigh.com",
+    "linkedin": "https://www.linkedin.com/in/devinkr/",
+    "github": "devinkr",
+    "email": "devin@dkr.im",
+    "resume": "https://devinraleigh.com/resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "HTML",
+        "CSS"
+    ],
+    "otherSkills": [
+        "Scuba Diving",
+        "Rock Climbing",
+        "Eating"
+    ]
+}
